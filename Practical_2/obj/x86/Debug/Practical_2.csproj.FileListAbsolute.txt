@@ -1,0 +1,4 @@
+/home/akshayraj/Projects/Solution_1/Practical_2/bin/Debug/Practical_2.exe
+/home/akshayraj/Projects/Solution_1/Practical_2/bin/Debug/Practical_2.pdb
+/home/akshayraj/Projects/Solution_1/Practical_2/obj/x86/Debug/Practical_2.exe
+/home/akshayraj/Projects/Solution_1/Practical_2/obj/x86/Debug/Practical_2.pdb

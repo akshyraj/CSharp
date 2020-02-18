@@ -1,0 +1,2 @@
+/home/akshayraj/Projects/Solution_1/Practical_3/bin/Release/Practical_3.exe
+/home/akshayraj/Projects/Solution_1/Practical_3/obj/x86/Release/Practical_3.exe

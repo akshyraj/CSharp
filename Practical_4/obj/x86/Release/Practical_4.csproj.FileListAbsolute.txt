@@ -1,0 +1,3 @@
+/home/akshayraj/Projects/Solution_1/Practical_4/obj/x86/Release/Practical_4.csprojAssemblyReference.cache
+/home/akshayraj/Projects/Solution_1/Practical_4/bin/Release/Practical_4.exe
+/home/akshayraj/Projects/Solution_1/Practical_4/obj/x86/Release/Practical_4.exe
